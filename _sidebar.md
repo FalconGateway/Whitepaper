@@ -20,6 +20,6 @@
     -   [<span class="f-gradient-p">Website</span>](official-channels.md?id=website "Website")
     -   [<span class="f-gradient-p">Community</span>](official-channels.md?id=community "Community")
 
--   [5.0 Guide](Guide.md "Guide")
+-   [5.0 Guide](guide.md "Guide")
 
     -   [<span class="f-gradient-p">Configuring MetaMask</span>](guide.md?id=configuring-metaMask "Configuring MetaMask ")
