@@ -19,7 +19,9 @@
 -   [4.0 Official Channels](official-channels.md "Official Channels")
     -   [<span class="f-gradient-p">Website</span>](official-channels.md?id=website "Website")
     -   [<span class="f-gradient-p">Community</span>](official-channels.md?id=community "Community")
+    -   [<span class="f-gradient-p">Smart Contract</span>](official-channels.md?id=smart-contract "Smart Contract")
 
 -   [5.0 Guide](guide.md "Guide")
 
     -   [<span class="f-gradient-p">Configuring MetaMask</span>](guide.md?id=configuring-metaMask "Configuring MetaMask ")
+
