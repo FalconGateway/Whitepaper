@@ -16,3 +16,6 @@
 
 - Github  : https://github.com/FalconGateway
 
+## Smart Contract
+
+- FGT(BEP20) : [0x5533Fd7244DE544D8445560112Eb70DC99D06A85](https://bscscan.com/address/0x5533Fd7244DE544D8445560112Eb70DC99D06A85)
