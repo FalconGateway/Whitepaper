@@ -1,3 +1,5 @@
+<div class="align-center"><img width="200" src="/img/logo.png" alt="logo"/></div>
+
 # > Guide <
 
 # Configuring MetaMask 
