@@ -12,7 +12,7 @@
 
 ## Community
 
-- Discord : https://discord.gg/dKppMXZQ
+- Discord : https://discord.gg/dpcTRSpKfb
 
 - Github  : https://github.com/FalconGateway
 
